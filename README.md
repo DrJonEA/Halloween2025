@@ -1,6 +1,8 @@
 # Halloween2025
 Halloween Project for my [YouTube Channel](https://youtube.com/@drjonea)
 
+<img src="images/NazgulFace.jpg" width="350" title="Nazgul Pepper's Ghost">
+
 Using 8 WS2812B LEDs on a strip (well three strips joined together) and a 
 [Waveshare RP2350 Amoled 1.64in Display](https://www.waveshare.com/rp2350-touch-amoled-1.64-m.htm?&aff_id=DrJonEA),
 I've build a Peppers Ghost Illusion of adding a face to a Nazgul figure.
